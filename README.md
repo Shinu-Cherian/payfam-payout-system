@@ -4,7 +4,7 @@ PayFam is a comprehensive full-stack application built for managing creator affi
 
 This project was built as a solution for a robust payout management system.
 
-## 🚀 Features
+##  Features
 
 - **Role-based Dashboards:** Dedicated views for Admin and User roles.
 - **Advance Payouts:** Automated 10% advance payout on pending sales with duplicate-prevention.
@@ -13,7 +13,7 @@ This project was built as a solution for a robust payout management system.
 - **Transaction Ledger:** Immutable ledger capturing every balance-changing event.
 - **Audit Logs:** Full traceability for administrative and payout events.
 
-## 📸 Screenshots
+##  Screenshots
 
 ### 1. Home / Login Page
 ![Home Page](images/1_login.png)
@@ -26,7 +26,7 @@ This project was built as a solution for a robust payout management system.
 ![Admin Dashboard 1](images/4_user_1.png)
 ![Admin Dashboard 2](images/5_user_2.png)
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Backend:**
 - Python, FastAPI
@@ -38,7 +38,7 @@ This project was built as a solution for a robust payout management system.
 - Tailwind CSS, shadcn-style UI primitives
 - Lucide Icons
 
-## 🏃 How to Run
+##  How to Run
 
 ### Start the Backend
 
@@ -61,7 +61,7 @@ npm run dev
 ```
 The frontend will run at `http://localhost:3000`.
 
-## 🔐 Seed Login Details
+##  Seed Login Details
 
 When the backend starts with an empty database, it automatically generates these seed users so you can log in and test immediately without needing to create accounts.
 
