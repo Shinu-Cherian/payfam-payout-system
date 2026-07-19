@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/payfam.db
+
+# Node
+node_modules/
+.next/
+out/
+
+# Logs and env
+*.log
+.env
+.env.local
+
