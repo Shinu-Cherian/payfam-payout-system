@@ -19,12 +19,12 @@ This project was built as a solution for a robust payout management system.
 ![Home Page](images/1_login.png)
 
 ### 2. User Interface
-![User Dashboard 1](images/4_user_1.png)
-![User Dashboard 2](images/5_user_2.png)
+![User Dashboard 1](images/2_admin_1.png)
+![User Dashboard 2](images/3_admin_2.png)
 
 ### 3. Admin Interface
-![Admin Dashboard 1](images/2_admin_1.png)
-![Admin Dashboard 2](images/3_admin_2.png)
+![Admin Dashboard 1](images/4_user_1.png)
+![Admin Dashboard 2](images/5_user_2.png)
 
 ## 💻 Tech Stack
 
